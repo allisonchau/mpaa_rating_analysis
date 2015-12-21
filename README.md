@@ -6,7 +6,7 @@
 
 >Metis prompt: Using information we scrape from the web, can we build linear regression models from which we can learn about the movie industry?
 
->There are a lot problems with the current MPAA rating system. We don't know who makes up the MPAA. Their standards are not transparent. They target independent film makers (more likely to receive an R rating without much explanation). My claim is that the MPAA rating will favor big studios, and milder ratings have positive correlation with box office gross.
+There are a lot problems with the current MPAA rating system. We don't know who makes up the MPAA. Their standards are not transparent. They target independent film makers (more likely to receive an R rating without much explanation). My claim is that the MPAA rating will favor big studios, and milder ratings have positive correlation with box office gross.
 
 
 #### Data:
@@ -29,8 +29,10 @@
  * linear regression
 
 #### Results:
-
+![](images/pg13.png)
+![](images/r.png)
 ![](images/1998.png)
+![](images/2012.png)
 
 
 #### What else?

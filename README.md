@@ -29,8 +29,8 @@ There are a lot problems with the current MPAA rating system. We don't know who 
  * linear regression
 
 #### Results:
-![](images/pg13.png)
-![](images/r.png)
+![](images/pg13_counts.png)
+![](images/r_counts.png)
 ![](images/1998.png)
 ![](images/2012.png)
 

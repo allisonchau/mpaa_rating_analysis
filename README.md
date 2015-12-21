@@ -33,7 +33,7 @@ There are a lot problems with the current MPAA rating system. We don't know who 
 ![](images/pg13_counts.png)
 ![](images/r_counts.png)
 
- * We can see that there are more PG-13 movies made 
+ * We can see that there are more PG-13 movies being made as the years pass. The trend for R-rated movies is not so clear. 
  
  
 ![](images/1998.png)

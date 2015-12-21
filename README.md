@@ -32,9 +32,13 @@ There are a lot problems with the current MPAA rating system. We don't know who 
 ##### General Trends:
 ![](images/pg13_counts.png)
 ![](images/r_counts.png)
+
  * We can see that there are more PG-13 movies made 
+ 
+ 
 ![](images/1998.png)
 ![](images/2012.png)
+
  * Films slapped with an NC-17 rating have the option to reject the rating and be released as 'Unrated'. 
 
 #### What else?
